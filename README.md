@@ -1,9 +1,9 @@
-# Nome do Projeto
+# TaskFlow
 
 Breve descrição de uma ou duas linhas sobre o que o sistema resolve.
 
 ## 👥 Equipe
-* **Product Owner (PO):** Nome do Aluno (@usuario-github)
+* **Product Owner (PO):** No Estorva (@noestorva)
 * **Scrum Master (SM):** Nome do Aluno (@usuario-github)
 * **Developers:** Nome do Aluno (@usuario-github), Nome do Aluno (@usuario-github)
 
